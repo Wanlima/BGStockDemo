@@ -41,7 +41,9 @@
 
 #define BGStockVolumeRatio 0.3//成交量图高度的比例
 
-#define BGStockCandleWidth 6//蜡烛的宽度
+#define BGStockCandleMinWidth 6//蜡烛的最小宽度
+
+#define BGStockCandleMaxWidth 20//蜡烛的最小宽度
 
 #define BGStockCandleGap 1 //蜡烛的间隔
 

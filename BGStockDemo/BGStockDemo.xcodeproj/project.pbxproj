@@ -37,6 +37,7 @@
 		539D27981E82BC4000D9BE17 /* BGStockSrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = 539D277C1E82BC4000D9BE17 /* BGStockSrollView.m */; };
 		539D27991E82BC4000D9BE17 /* BGStockTimeChart.m in Sources */ = {isa = PBXBuildFile; fileRef = 539D277F1E82BC4000D9BE17 /* BGStockTimeChart.m */; };
 		539D279A1E82BC4000D9BE17 /* UIColor+Theme.m in Sources */ = {isa = PBXBuildFile; fileRef = 539D27821E82BC4000D9BE17 /* UIColor+Theme.m */; };
+		DD077BE21E83AA2100B97530 /* BGStockTrackingLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = DD077BE11E83AA2100B97530 /* BGStockTrackingLayer.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -101,6 +102,8 @@
 		539D27811E82BC4000D9BE17 /* UIColor+Theme.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+Theme.h"; sourceTree = "<group>"; };
 		539D27821E82BC4000D9BE17 /* UIColor+Theme.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+Theme.m"; sourceTree = "<group>"; };
 		539D279B1E82BC6500D9BE17 /* BGStockPrefixHeader.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BGStockPrefixHeader.pch; sourceTree = "<group>"; };
+		DD077BE01E83AA2100B97530 /* BGStockTrackingLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BGStockTrackingLayer.h; sourceTree = "<group>"; };
+		DD077BE11E83AA2100B97530 /* BGStockTrackingLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BGStockTrackingLayer.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -262,6 +265,8 @@
 		539D27771E82BC4000D9BE17 /* StockKLineView */ = {
 			isa = PBXGroup;
 			children = (
+				DD077BE01E83AA2100B97530 /* BGStockTrackingLayer.h */,
+				DD077BE11E83AA2100B97530 /* BGStockTrackingLayer.m */,
 				539D27781E82BC4000D9BE17 /* BGStockKChart.h */,
 				539D27791E82BC4000D9BE17 /* BGStockKChart.m */,
 			);
@@ -379,6 +384,7 @@
 				539D27341E82BBC400D9BE17 /* AppDelegate.m in Sources */,
 				539D27951E82BC4000D9BE17 /* BGStockView.m in Sources */,
 				539D278F1E82BC4000D9BE17 /* BGStockViewModel.m in Sources */,
+				DD077BE21E83AA2100B97530 /* BGStockTrackingLayer.m in Sources */,
 				539D27861E82BC4000D9BE17 /* MASLayoutConstraint.m in Sources */,
 				539D278D1E82BC4000D9BE17 /* BGStockKLineModel.m in Sources */,
 				539D27311E82BBC400D9BE17 /* main.m in Sources */,
@@ -552,6 +558,7 @@
 				539D27451E82BBC400D9BE17 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

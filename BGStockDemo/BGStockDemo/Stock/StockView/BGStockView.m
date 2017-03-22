@@ -8,10 +8,7 @@
 
 #import "BGStockView.h"
 
-
 static const CGFloat BGStockViewBarHeight = 32;
-
-
 
 @interface BGStockView ()
 

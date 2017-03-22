@@ -13,6 +13,7 @@
 
 #import "BGStockView.h"
 #import "BGStockBar.h"
+#import "BGStockTrackingLayer.h"
 #import "BGStockKChart.h"
 #import "BGStockTimeChart.h"
 

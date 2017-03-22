@@ -1,0 +1,20 @@
+//
+//  BGStockPrefixHeader.pch
+//  BGStockDemo
+//
+//  Created by Passion on 2017/2/27.
+//  Copyright © 2017年 pgadmin. All rights reserved.
+//
+
+#import "Masonry.h"
+#import "BGStock.h"
+#import "UIColor+Theme.h"
+
+#ifndef BGStockPrefixHeader_pch
+#define BGStockPrefixHeader_pch
+
+
+
+
+
+#endif /* BGStockPrefixHeader_pch */

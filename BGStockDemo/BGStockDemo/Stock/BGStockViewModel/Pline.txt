@@ -1,0 +1,2414 @@
+{
+    "600330.SS": [
+        {
+            "TRADE_TIME": "2017-02-27 15:00:00",
+            "PRICE": "10.96",
+            "V_TOTAL": "1.6289097E7",
+            "M_TOTAL": "1.80226117E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:59:00",
+            "PRICE": "10.96",
+            "V_TOTAL": "1.6235697E7",
+            "M_TOTAL": "1.79640862E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:58:00",
+            "PRICE": "10.95",
+            "V_TOTAL": "1.6129196E7",
+            "M_TOTAL": "1.78474215E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:57:00",
+            "PRICE": "10.96",
+            "V_TOTAL": "1.5930297E7",
+            "M_TOTAL": "1.76295313E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:56:00",
+            "PRICE": "10.96",
+            "V_TOTAL": "1.5817097E7",
+            "M_TOTAL": "1.75055045E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:55:00",
+            "PRICE": "10.97",
+            "V_TOTAL": "1.5694497E7",
+            "M_TOTAL": "1.73711069E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:54:00",
+            "PRICE": "10.97",
+            "V_TOTAL": "1.5648497E7",
+            "M_TOTAL": "1.73206553E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:53:00",
+            "PRICE": "10.96",
+            "V_TOTAL": "1.5571397E7",
+            "M_TOTAL": "1.72361224E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:52:00",
+            "PRICE": "10.96",
+            "V_TOTAL": "1.5515497E7",
+            "M_TOTAL": "1.71748622E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:51:00",
+            "PRICE": "10.95",
+            "V_TOTAL": "1.5384596E7",
+            "M_TOTAL": "1.70314708E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:50:00",
+            "PRICE": "10.97",
+            "V_TOTAL": "1.5238897E7",
+            "M_TOTAL": "1.68718937E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:49:00",
+            "PRICE": "10.97",
+            "V_TOTAL": "1.5062098E7",
+            "M_TOTAL": "1.66780524E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:48:00",
+            "PRICE": "10.97",
+            "V_TOTAL": "1.5010098E7",
+            "M_TOTAL": "1.66210032E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:47:00",
+            "PRICE": "10.99",
+            "V_TOTAL": "1.4874098E7",
+            "M_TOTAL": "1.64716839E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:46:00",
+            "PRICE": "11.0",
+            "V_TOTAL": "1.48546E7",
+            "M_TOTAL": "1.64502553E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:45:00",
+            "PRICE": "11.0",
+            "V_TOTAL": "1.48114E7",
+            "M_TOTAL": "1.64027693E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:44:00",
+            "PRICE": "11.0",
+            "V_TOTAL": "1.48017E7",
+            "M_TOTAL": "1.63920998E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:43:00",
+            "PRICE": "11.0",
+            "V_TOTAL": "1.47918E7",
+            "M_TOTAL": "1.63812103E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:42:00",
+            "PRICE": "10.98",
+            "V_TOTAL": "1.4739098E7",
+            "M_TOTAL": "1.63232655E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:41:00",
+            "PRICE": "10.98",
+            "V_TOTAL": "1.4697098E7",
+            "M_TOTAL": "1.62771461E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:40:00",
+            "PRICE": "10.99",
+            "V_TOTAL": "1.4684498E7",
+            "M_TOTAL": "1.62633163E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:39:00",
+            "PRICE": "10.99",
+            "V_TOTAL": "1.4609598E7",
+            "M_TOTAL": "1.61811275E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:38:00",
+            "PRICE": "10.98",
+            "V_TOTAL": "1.4597898E7",
+            "M_TOTAL": "1.61682796E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:37:00",
+            "PRICE": "10.99",
+            "V_TOTAL": "1.4484298E7",
+            "M_TOTAL": "1.60435592E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:36:00",
+            "PRICE": "10.99",
+            "V_TOTAL": "1.4477098E7",
+            "M_TOTAL": "1.60356464E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:35:00",
+            "PRICE": "11.0",
+            "V_TOTAL": "1.4462498E7",
+            "M_TOTAL": "1.60195978E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:34:00",
+            "PRICE": "10.99",
+            "V_TOTAL": "1.4404998E7",
+            "M_TOTAL": "1.59563503E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:33:00",
+            "PRICE": "10.97",
+            "V_TOTAL": "1.4365697E7",
+            "M_TOTAL": "1.5913197E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:32:00",
+            "PRICE": "10.96",
+            "V_TOTAL": "1.4325897E7",
+            "M_TOTAL": "1.58695364E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:31:00",
+            "PRICE": "10.96",
+            "V_TOTAL": "1.4238897E7",
+            "M_TOTAL": "1.57741413E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:30:00",
+            "PRICE": "10.97",
+            "V_TOTAL": "1.4137297E7",
+            "M_TOTAL": "1.56627758E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:29:00",
+            "PRICE": "10.98",
+            "V_TOTAL": "1.4056297E7",
+            "M_TOTAL": "1.55739138E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:28:00",
+            "PRICE": "10.98",
+            "V_TOTAL": "1.4020397E7",
+            "M_TOTAL": "1.55345128E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:27:00",
+            "PRICE": "10.98",
+            "V_TOTAL": "1.3966499E7",
+            "M_TOTAL": "1.54753364E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:26:00",
+            "PRICE": "10.99",
+            "V_TOTAL": "1.3958399E7",
+            "M_TOTAL": "1.54664395E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:25:00",
+            "PRICE": "10.99",
+            "V_TOTAL": "1.3923397E7",
+            "M_TOTAL": "1.54279831E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:24:00",
+            "PRICE": "10.99",
+            "V_TOTAL": "1.3905297E7",
+            "M_TOTAL": "1.54080993E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:23:00",
+            "PRICE": "10.99",
+            "V_TOTAL": "1.3876097E7",
+            "M_TOTAL": "1.53760257E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:22:00",
+            "PRICE": "10.98",
+            "V_TOTAL": "1.3857597E7",
+            "M_TOTAL": "1.53556955E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:21:00",
+            "PRICE": "10.99",
+            "V_TOTAL": "1.3818599E7",
+            "M_TOTAL": "1.53128407E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:20:00",
+            "PRICE": "10.99",
+            "V_TOTAL": "1.3750197E7",
+            "M_TOTAL": "1.52377016E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:19:00",
+            "PRICE": "10.99",
+            "V_TOTAL": "1.3729197E7",
+            "M_TOTAL": "1.52146226E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:18:00",
+            "PRICE": "10.98",
+            "V_TOTAL": "1.3714497E7",
+            "M_TOTAL": "1.51984795E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:17:00",
+            "PRICE": "10.98",
+            "V_TOTAL": "1.3684897E7",
+            "M_TOTAL": "1.51659922E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:16:00",
+            "PRICE": "10.99",
+            "V_TOTAL": "1.3677797E7",
+            "M_TOTAL": "1.51581964E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:15:00",
+            "PRICE": "10.98",
+            "V_TOTAL": "1.3588597E7",
+            "M_TOTAL": "1.50602649E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:14:00",
+            "PRICE": "10.98",
+            "V_TOTAL": "1.3523597E7",
+            "M_TOTAL": "1.49888849E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:13:00",
+            "PRICE": "10.99",
+            "V_TOTAL": "1.3498897E7",
+            "M_TOTAL": "1.49617551E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:12:00",
+            "PRICE": "10.99",
+            "V_TOTAL": "1.3451597E7",
+            "M_TOTAL": "1.49097894E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:11:00",
+            "PRICE": "10.98",
+            "V_TOTAL": "1.3420797E7",
+            "M_TOTAL": "1.48759396E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:10:00",
+            "PRICE": "10.99",
+            "V_TOTAL": "1.3390797E7",
+            "M_TOTAL": "1.48429778E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:09:00",
+            "PRICE": "10.99",
+            "V_TOTAL": "1.3374597E7",
+            "M_TOTAL": "1.48251723E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:08:00",
+            "PRICE": "11.0",
+            "V_TOTAL": "1.3354097E7",
+            "M_TOTAL": "1.48026253E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:07:00",
+            "PRICE": "10.99",
+            "V_TOTAL": "1.3339297E7",
+            "M_TOTAL": "1.47863618E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:06:00",
+            "PRICE": "10.99",
+            "V_TOTAL": "1.3305597E7",
+            "M_TOTAL": "1.47493289E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:05:00",
+            "PRICE": "10.99",
+            "V_TOTAL": "1.3250097E7",
+            "M_TOTAL": "1.46883719E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:04:00",
+            "PRICE": "10.98",
+            "V_TOTAL": "1.3216797E7",
+            "M_TOTAL": "1.46517767E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:03:00",
+            "PRICE": "10.99",
+            "V_TOTAL": "1.3189297E7",
+            "M_TOTAL": "1.46215606E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:02:00",
+            "PRICE": "10.98",
+            "V_TOTAL": "1.3178097E7",
+            "M_TOTAL": "1.4609258E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:01:00",
+            "PRICE": "10.97",
+            "V_TOTAL": "1.3148197E7",
+            "M_TOTAL": "1.45764249E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 14:00:00",
+            "PRICE": "10.98",
+            "V_TOTAL": "1.3071997E7",
+            "M_TOTAL": "1.44927481E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:59:00",
+            "PRICE": "10.99",
+            "V_TOTAL": "1.3057097E7",
+            "M_TOTAL": "1.44763855E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:58:00",
+            "PRICE": "10.99",
+            "V_TOTAL": "1.3044997E7",
+            "M_TOTAL": "1.44630877E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:57:00",
+            "PRICE": "10.98",
+            "V_TOTAL": "1.3007597E7",
+            "M_TOTAL": "1.44220198E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:56:00",
+            "PRICE": "10.97",
+            "V_TOTAL": "1.2947097E7",
+            "M_TOTAL": "1.43556128E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:55:00",
+            "PRICE": "10.98",
+            "V_TOTAL": "1.2880697E7",
+            "M_TOTAL": "1.42827678E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:54:00",
+            "PRICE": "10.98",
+            "V_TOTAL": "1.2744597E7",
+            "M_TOTAL": "1.41333174E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:53:00",
+            "PRICE": "10.99",
+            "V_TOTAL": "1.2720699E7",
+            "M_TOTAL": "1.41070657E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:52:00",
+            "PRICE": "10.99",
+            "V_TOTAL": "1.2661499E7",
+            "M_TOTAL": "1.40419917E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:51:00",
+            "PRICE": "10.99",
+            "V_TOTAL": "1.2564699E7",
+            "M_TOTAL": "1.39355917E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:50:00",
+            "PRICE": "11.0",
+            "V_TOTAL": "1.2547999E7",
+            "M_TOTAL": "1.39172281E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:49:00",
+            "PRICE": "11.0",
+            "V_TOTAL": "1.2482199E7",
+            "M_TOTAL": "1.38448738E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:48:00",
+            "PRICE": "11.02",
+            "V_TOTAL": "1.2432299E7",
+            "M_TOTAL": "1.37899198E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:47:00",
+            "PRICE": "11.01",
+            "V_TOTAL": "1.2418999E7",
+            "M_TOTAL": "1.37752749E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:46:00",
+            "PRICE": "11.0",
+            "V_TOTAL": "1.2394599E7",
+            "M_TOTAL": "1.37484124E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:45:00",
+            "PRICE": "10.99",
+            "V_TOTAL": "1.2367397E7",
+            "M_TOTAL": "1.37185088E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:44:00",
+            "PRICE": "11.0",
+            "V_TOTAL": "1.2295397E7",
+            "M_TOTAL": "1.36393687E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:43:00",
+            "PRICE": "11.0",
+            "V_TOTAL": "1.2236197E7",
+            "M_TOTAL": "1.35742518E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:42:00",
+            "PRICE": "10.98",
+            "V_TOTAL": "1.2193197E7",
+            "M_TOTAL": "1.35269834E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:41:00",
+            "PRICE": "11.0",
+            "V_TOTAL": "1.2133297E7",
+            "M_TOTAL": "1.34611368E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:40:00",
+            "PRICE": "11.0",
+            "V_TOTAL": "1.2106697E7",
+            "M_TOTAL": "1.34318768E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:39:00",
+            "PRICE": "10.98",
+            "V_TOTAL": "1.2091497E7",
+            "M_TOTAL": "1.34151623E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:38:00",
+            "PRICE": "10.99",
+            "V_TOTAL": "1.1993497E7",
+            "M_TOTAL": "1.33074881E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:37:00",
+            "PRICE": "10.99",
+            "V_TOTAL": "1.1872097E7",
+            "M_TOTAL": "1.31741314E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:36:00",
+            "PRICE": "10.99",
+            "V_TOTAL": "1.1786897E7",
+            "M_TOTAL": "1.30804939E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:35:00",
+            "PRICE": "11.0",
+            "V_TOTAL": "1.1746497E7",
+            "M_TOTAL": "1.30360707E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:34:00",
+            "PRICE": "10.99",
+            "V_TOTAL": "1.1668897E7",
+            "M_TOTAL": "1.29507625E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:33:00",
+            "PRICE": "10.99",
+            "V_TOTAL": "1.1635197E7",
+            "M_TOTAL": "1.29137154E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:32:00",
+            "PRICE": "10.97",
+            "V_TOTAL": "1.1530597E7",
+            "M_TOTAL": "1.27988659E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:31:00",
+            "PRICE": "10.96",
+            "V_TOTAL": "1.1483296E7",
+            "M_TOTAL": "1.27469922E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:30:00",
+            "PRICE": "10.97",
+            "V_TOTAL": "1.1213296E7",
+            "M_TOTAL": "1.24510194E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:29:00",
+            "PRICE": "10.99",
+            "V_TOTAL": "1.1055596E7",
+            "M_TOTAL": "1.22778961E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:28:00",
+            "PRICE": "11.01",
+            "V_TOTAL": "1.0599596E7",
+            "M_TOTAL": "1.17762793E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:27:00",
+            "PRICE": "11.02",
+            "V_TOTAL": "1.0469797E7",
+            "M_TOTAL": "1.16333453E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:26:00",
+            "PRICE": "11.02",
+            "V_TOTAL": "1.0373596E7",
+            "M_TOTAL": "1.15273151E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:25:00",
+            "PRICE": "11.02",
+            "V_TOTAL": "1.0258118E7",
+            "M_TOTAL": "1.14000408E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:24:00",
+            "PRICE": "11.02",
+            "V_TOTAL": "1.0180696E7",
+            "M_TOTAL": "1.13147263E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:23:00",
+            "PRICE": "11.02",
+            "V_TOTAL": "1.0109796E7",
+            "M_TOTAL": "1.12366389E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:22:00",
+            "PRICE": "11.02",
+            "V_TOTAL": "9935818.0",
+            "M_TOTAL": "1.10450485E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:21:00",
+            "PRICE": "11.02",
+            "V_TOTAL": "9651396.0",
+            "M_TOTAL": "1.07318435E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:20:00",
+            "PRICE": "11.02",
+            "V_TOTAL": "9514096.0",
+            "M_TOTAL": "1.05805776E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:19:00",
+            "PRICE": "11.02",
+            "V_TOTAL": "9323396.0",
+            "M_TOTAL": "1.03704443E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:18:00",
+            "PRICE": "11.03",
+            "V_TOTAL": "9231696.0",
+            "M_TOTAL": "1.02693611E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:17:00",
+            "PRICE": "11.02",
+            "V_TOTAL": "9150696.0",
+            "M_TOTAL": "1.01800339E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:16:00",
+            "PRICE": "11.04",
+            "V_TOTAL": "9015396.0",
+            "M_TOTAL": "1.003083E8",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:15:00",
+            "PRICE": "11.05",
+            "V_TOTAL": "8931296.0",
+            "M_TOTAL": "9.9380245E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:14:00",
+            "PRICE": "11.06",
+            "V_TOTAL": "8822206.0",
+            "M_TOTAL": "9.8175603E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:13:00",
+            "PRICE": "11.06",
+            "V_TOTAL": "8785506.0",
+            "M_TOTAL": "9.7769869E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:12:00",
+            "PRICE": "11.05",
+            "V_TOTAL": "8771806.0",
+            "M_TOTAL": "9.7618424E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:11:00",
+            "PRICE": "11.06",
+            "V_TOTAL": "8730106.0",
+            "M_TOTAL": "9.7157546E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:10:00",
+            "PRICE": "11.05",
+            "V_TOTAL": "8720106.0",
+            "M_TOTAL": "9.7046964E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:09:00",
+            "PRICE": "11.05",
+            "V_TOTAL": "8686806.0",
+            "M_TOTAL": "9.6678973E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:08:00",
+            "PRICE": "11.06",
+            "V_TOTAL": "8641406.0",
+            "M_TOTAL": "9.6177071E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:07:00",
+            "PRICE": "11.06",
+            "V_TOTAL": "8608506.0",
+            "M_TOTAL": "9.5813399E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:06:00",
+            "PRICE": "11.05",
+            "V_TOTAL": "8563806.0",
+            "M_TOTAL": "9.5319262E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:05:00",
+            "PRICE": "11.05",
+            "V_TOTAL": "8557406.0",
+            "M_TOTAL": "9.5248516E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:04:00",
+            "PRICE": "11.06",
+            "V_TOTAL": "8521006.0",
+            "M_TOTAL": "9.4846175E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:03:00",
+            "PRICE": "11.06",
+            "V_TOTAL": "8457106.0",
+            "M_TOTAL": "9.4139813E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:02:00",
+            "PRICE": "11.07",
+            "V_TOTAL": "8451106.0",
+            "M_TOTAL": "9.4073453E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 13:01:00",
+            "PRICE": "11.06",
+            "V_TOTAL": "8419506.0",
+            "M_TOTAL": "9.3723873E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 11:30:00",
+            "PRICE": "11.06",
+            "V_TOTAL": "8321096.0",
+            "M_TOTAL": "9.2635916E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 11:29:00",
+            "PRICE": "11.05",
+            "V_TOTAL": "8309696.0",
+            "M_TOTAL": "9.2509872E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 11:28:00",
+            "PRICE": "11.05",
+            "V_TOTAL": "8248296.0",
+            "M_TOTAL": "9.1831399E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 11:27:00",
+            "PRICE": "11.06",
+            "V_TOTAL": "8140996.0",
+            "M_TOTAL": "9.0645594E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 11:26:00",
+            "PRICE": "11.06",
+            "V_TOTAL": "8001296.0",
+            "M_TOTAL": "8.9101756E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 11:25:00",
+            "PRICE": "11.07",
+            "V_TOTAL": "7800796.0",
+            "M_TOTAL": "8.6884216E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 11:24:00",
+            "PRICE": "11.06",
+            "V_TOTAL": "7772196.0",
+            "M_TOTAL": "8.6567843E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 11:23:00",
+            "PRICE": "11.07",
+            "V_TOTAL": "7612996.0",
+            "M_TOTAL": "8.4806929E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 11:22:00",
+            "PRICE": "11.07",
+            "V_TOTAL": "7512596.0",
+            "M_TOTAL": "8.3695471E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 11:21:00",
+            "PRICE": "11.07",
+            "V_TOTAL": "7424096.0",
+            "M_TOTAL": "8.2715612E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 11:20:00",
+            "PRICE": "11.07",
+            "V_TOTAL": "7308796.0",
+            "M_TOTAL": "8.1439014E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 11:19:00",
+            "PRICE": "11.08",
+            "V_TOTAL": "7162796.0",
+            "M_TOTAL": "7.9822696E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 11:18:00",
+            "PRICE": "11.09",
+            "V_TOTAL": "7024796.0",
+            "M_TOTAL": "7.8294174E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 11:17:00",
+            "PRICE": "11.08",
+            "V_TOTAL": "6945996.0",
+            "M_TOTAL": "7.7421059E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 11:16:00",
+            "PRICE": "11.08",
+            "V_TOTAL": "6829196.0",
+            "M_TOTAL": "7.6126586E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 11:15:00",
+            "PRICE": "11.09",
+            "V_TOTAL": "6753596.0",
+            "M_TOTAL": "7.5288657E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 11:14:00",
+            "PRICE": "11.08",
+            "V_TOTAL": "6739596.0",
+            "M_TOTAL": "7.5133416E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 11:13:00",
+            "PRICE": "11.09",
+            "V_TOTAL": "6496196.0",
+            "M_TOTAL": "7.2435707E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 11:12:00",
+            "PRICE": "11.09",
+            "V_TOTAL": "6482196.0",
+            "M_TOTAL": "7.2280407E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 11:11:00",
+            "PRICE": "11.09",
+            "V_TOTAL": "6350396.0",
+            "M_TOTAL": "7.0818914E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 11:10:00",
+            "PRICE": "11.1",
+            "V_TOTAL": "6131796.0",
+            "M_TOTAL": "6.8394435E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 11:09:00",
+            "PRICE": "11.11",
+            "V_TOTAL": "6005496.0",
+            "M_TOTAL": "6.6992423E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 11:08:00",
+            "PRICE": "11.11",
+            "V_TOTAL": "5990496.0",
+            "M_TOTAL": "6.6825773E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 11:07:00",
+            "PRICE": "11.12",
+            "V_TOTAL": "5836996.0",
+            "M_TOTAL": "6.5121157E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 11:06:00",
+            "PRICE": "11.11",
+            "V_TOTAL": "5818796.0",
+            "M_TOTAL": "6.491887E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 11:05:00",
+            "PRICE": "11.12",
+            "V_TOTAL": "5674296.0",
+            "M_TOTAL": "6.3313206E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 11:04:00",
+            "PRICE": "11.13",
+            "V_TOTAL": "5630896.0",
+            "M_TOTAL": "6.283064E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 11:03:00",
+            "PRICE": "11.13",
+            "V_TOTAL": "5624296.0",
+            "M_TOTAL": "6.2757235E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 11:02:00",
+            "PRICE": "11.13",
+            "V_TOTAL": "5593196.0",
+            "M_TOTAL": "6.2411394E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 11:01:00",
+            "PRICE": "11.13",
+            "V_TOTAL": "5562096.0",
+            "M_TOTAL": "6.2065237E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 11:00:00",
+            "PRICE": "11.12",
+            "V_TOTAL": "5505096.0",
+            "M_TOTAL": "6.1431139E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:59:00",
+            "PRICE": "11.12",
+            "V_TOTAL": "5493696.0",
+            "M_TOTAL": "6.1304346E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:58:00",
+            "PRICE": "11.11",
+            "V_TOTAL": "5437196.0",
+            "M_TOTAL": "6.0676312E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:57:00",
+            "PRICE": "11.11",
+            "V_TOTAL": "5345696.0",
+            "M_TOTAL": "5.965961E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:56:00",
+            "PRICE": "11.12",
+            "V_TOTAL": "5255896.0",
+            "M_TOTAL": "5.8661257E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:55:00",
+            "PRICE": "11.12",
+            "V_TOTAL": "5176996.0",
+            "M_TOTAL": "5.7784518E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:54:00",
+            "PRICE": "11.12",
+            "V_TOTAL": "5162096.0",
+            "M_TOTAL": "5.7618815E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:53:00",
+            "PRICE": "11.12",
+            "V_TOTAL": "5142796.0",
+            "M_TOTAL": "5.7404199E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:52:00",
+            "PRICE": "11.12",
+            "V_TOTAL": "5056296.0",
+            "M_TOTAL": "5.6442496E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:51:00",
+            "PRICE": "11.13",
+            "V_TOTAL": "5049996.0",
+            "M_TOTAL": "5.6372419E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:50:00",
+            "PRICE": "11.12",
+            "V_TOTAL": "5032396.0",
+            "M_TOTAL": "5.6176619E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:49:00",
+            "PRICE": "11.12",
+            "V_TOTAL": "5002796.0",
+            "M_TOTAL": "5.5847335E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:48:00",
+            "PRICE": "11.12",
+            "V_TOTAL": "4997996.0",
+            "M_TOTAL": "5.5793943E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:47:00",
+            "PRICE": "11.13",
+            "V_TOTAL": "4993696.0",
+            "M_TOTAL": "5.5746092E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:46:00",
+            "PRICE": "11.13",
+            "V_TOTAL": "4970496.0",
+            "M_TOTAL": "5.5488088E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:45:00",
+            "PRICE": "11.12",
+            "V_TOTAL": "4957296.0",
+            "M_TOTAL": "5.5341234E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:44:00",
+            "PRICE": "11.12",
+            "V_TOTAL": "4911596.0",
+            "M_TOTAL": "5.4833006E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:43:00",
+            "PRICE": "11.12",
+            "V_TOTAL": "4833696.0",
+            "M_TOTAL": "5.3966656E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:42:00",
+            "PRICE": "11.13",
+            "V_TOTAL": "4787196.0",
+            "M_TOTAL": "5.3449204E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:41:00",
+            "PRICE": "11.13",
+            "V_TOTAL": "4744096.0",
+            "M_TOTAL": "5.2969416E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:40:00",
+            "PRICE": "11.14",
+            "V_TOTAL": "4709096.0",
+            "M_TOTAL": "5.2579666E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:39:00",
+            "PRICE": "11.14",
+            "V_TOTAL": "4648696.0",
+            "M_TOTAL": "5.1906947E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:38:00",
+            "PRICE": "11.13",
+            "V_TOTAL": "4599396.0",
+            "M_TOTAL": "5.1357988E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:37:00",
+            "PRICE": "11.14",
+            "V_TOTAL": "4556796.0",
+            "M_TOTAL": "5.0883437E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:36:00",
+            "PRICE": "11.15",
+            "V_TOTAL": "4465196.0",
+            "M_TOTAL": "4.9862266E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:35:00",
+            "PRICE": "11.14",
+            "V_TOTAL": "4451096.0",
+            "M_TOTAL": "4.9705103E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:34:00",
+            "PRICE": "11.12",
+            "V_TOTAL": "4418496.0",
+            "M_TOTAL": "4.934193E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:33:00",
+            "PRICE": "11.13",
+            "V_TOTAL": "4340192.0",
+            "M_TOTAL": "4.8470195E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:32:00",
+            "PRICE": "11.13",
+            "V_TOTAL": "4296392.0",
+            "M_TOTAL": "4.7982652E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:31:00",
+            "PRICE": "11.12",
+            "V_TOTAL": "4265692.0",
+            "M_TOTAL": "4.7641016E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:30:00",
+            "PRICE": "11.12",
+            "V_TOTAL": "4231592.0",
+            "M_TOTAL": "4.726163E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:29:00",
+            "PRICE": "11.13",
+            "V_TOTAL": "4216592.0",
+            "M_TOTAL": "4.709481E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:28:00",
+            "PRICE": "11.13",
+            "V_TOTAL": "4155893.0",
+            "M_TOTAL": "4.6419653E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:27:00",
+            "PRICE": "11.12",
+            "V_TOTAL": "4126092.0",
+            "M_TOTAL": "4.608824E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:26:00",
+            "PRICE": "11.11",
+            "V_TOTAL": "4085692.0",
+            "M_TOTAL": "4.5639143E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:25:00",
+            "PRICE": "11.11",
+            "V_TOTAL": "4036492.0",
+            "M_TOTAL": "4.5092637E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:24:00",
+            "PRICE": "11.11",
+            "V_TOTAL": "3884892.0",
+            "M_TOTAL": "4.3408999E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:23:00",
+            "PRICE": "11.12",
+            "V_TOTAL": "3749092.0",
+            "M_TOTAL": "4.1900536E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:22:00",
+            "PRICE": "11.12",
+            "V_TOTAL": "3723292.0",
+            "M_TOTAL": "4.1613676E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:21:00",
+            "PRICE": "11.12",
+            "V_TOTAL": "3520491.0",
+            "M_TOTAL": "3.9359619E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:20:00",
+            "PRICE": "11.13",
+            "V_TOTAL": "3451491.0",
+            "M_TOTAL": "3.8591677E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:19:00",
+            "PRICE": "11.14",
+            "V_TOTAL": "3405191.0",
+            "M_TOTAL": "3.8076213E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:18:00",
+            "PRICE": "11.15",
+            "V_TOTAL": "3391691.0",
+            "M_TOTAL": "3.7925859E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:17:00",
+            "PRICE": "11.14",
+            "V_TOTAL": "3342691.0",
+            "M_TOTAL": "3.7379671E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:16:00",
+            "PRICE": "11.14",
+            "V_TOTAL": "3280891.0",
+            "M_TOTAL": "3.6691438E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:15:00",
+            "PRICE": "11.15",
+            "V_TOTAL": "3247291.0",
+            "M_TOTAL": "3.6316854E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:14:00",
+            "PRICE": "11.13",
+            "V_TOTAL": "3183191.0",
+            "M_TOTAL": "3.560288E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:13:00",
+            "PRICE": "11.13",
+            "V_TOTAL": "3146591.0",
+            "M_TOTAL": "3.5195327E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:12:00",
+            "PRICE": "11.11",
+            "V_TOTAL": "3006200.0",
+            "M_TOTAL": "3.3634047E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:11:00",
+            "PRICE": "11.14",
+            "V_TOTAL": "2840900.0",
+            "M_TOTAL": "3.1796583E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:10:00",
+            "PRICE": "11.16",
+            "V_TOTAL": "2550700.0",
+            "M_TOTAL": "2.8560633E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:09:00",
+            "PRICE": "11.16",
+            "V_TOTAL": "2497401.0",
+            "M_TOTAL": "2.7965739E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:08:00",
+            "PRICE": "11.16",
+            "V_TOTAL": "2448401.0",
+            "M_TOTAL": "2.7418832E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:07:00",
+            "PRICE": "11.17",
+            "V_TOTAL": "2393901.0",
+            "M_TOTAL": "2.6810552E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:06:00",
+            "PRICE": "11.17",
+            "V_TOTAL": "2356701.0",
+            "M_TOTAL": "2.6395242E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:05:00",
+            "PRICE": "11.17",
+            "V_TOTAL": "2329001.0",
+            "M_TOTAL": "2.6085776E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:04:00",
+            "PRICE": "11.17",
+            "V_TOTAL": "2307501.0",
+            "M_TOTAL": "2.5845572E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:03:00",
+            "PRICE": "11.17",
+            "V_TOTAL": "2202201.0",
+            "M_TOTAL": "2.4669883E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:02:00",
+            "PRICE": "11.17",
+            "V_TOTAL": "2159301.0",
+            "M_TOTAL": "2.419069E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:01:00",
+            "PRICE": "11.18",
+            "V_TOTAL": "2123700.0",
+            "M_TOTAL": "2.3792992E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 10:00:00",
+            "PRICE": "11.17",
+            "V_TOTAL": "2051300.0",
+            "M_TOTAL": "2.2983997E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 09:59:00",
+            "PRICE": "11.17",
+            "V_TOTAL": "2017700.0",
+            "M_TOTAL": "2.2608642E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 09:58:00",
+            "PRICE": "11.17",
+            "V_TOTAL": "1950200.0",
+            "M_TOTAL": "2.1854525E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 09:57:00",
+            "PRICE": "11.18",
+            "V_TOTAL": "1865900.0",
+            "M_TOTAL": "2.0912262E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 09:56:00",
+            "PRICE": "11.2",
+            "V_TOTAL": "1801401.0",
+            "M_TOTAL": "2.0190648E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 09:55:00",
+            "PRICE": "11.2",
+            "V_TOTAL": "1731701.0",
+            "M_TOTAL": "1.9410543E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 09:54:00",
+            "PRICE": "11.18",
+            "V_TOTAL": "1698000.0",
+            "M_TOTAL": "1.9033434E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 09:53:00",
+            "PRICE": "11.19",
+            "V_TOTAL": "1632600.0",
+            "M_TOTAL": "1.8301817E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 09:52:00",
+            "PRICE": "11.18",
+            "V_TOTAL": "1560400.0",
+            "M_TOTAL": "1.7494126E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 09:51:00",
+            "PRICE": "11.19",
+            "V_TOTAL": "1494400.0",
+            "M_TOTAL": "1.6755638E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 09:50:00",
+            "PRICE": "11.21",
+            "V_TOTAL": "1441200.0",
+            "M_TOTAL": "1.6159694E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 09:49:00",
+            "PRICE": "11.22",
+            "V_TOTAL": "1408000.0",
+            "M_TOTAL": "1.5787437E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 09:48:00",
+            "PRICE": "11.23",
+            "V_TOTAL": "1344700.0",
+            "M_TOTAL": "1.5077019E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 09:47:00",
+            "PRICE": "11.22",
+            "V_TOTAL": "1332400.0",
+            "M_TOTAL": "1.4938992E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 09:46:00",
+            "PRICE": "11.21",
+            "V_TOTAL": "1301100.0",
+            "M_TOTAL": "1.4588043E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 09:45:00",
+            "PRICE": "11.2",
+            "V_TOTAL": "1232800.0",
+            "M_TOTAL": "1.3822581E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 09:44:00",
+            "PRICE": "11.19",
+            "V_TOTAL": "1160800.0",
+            "M_TOTAL": "1.3016388E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 09:43:00",
+            "PRICE": "11.19",
+            "V_TOTAL": "1111900.0",
+            "M_TOTAL": "1.2468949E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 09:42:00",
+            "PRICE": "11.2",
+            "V_TOTAL": "1063900.0",
+            "M_TOTAL": "1.1931422E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 09:41:00",
+            "PRICE": "11.19",
+            "V_TOTAL": "1019200.0",
+            "M_TOTAL": "1.1430987E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 09:40:00",
+            "PRICE": "11.2",
+            "V_TOTAL": "963200.0",
+            "M_TOTAL": "1.0804274E7",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 09:39:00",
+            "PRICE": "11.19",
+            "V_TOTAL": "852300.0",
+            "M_TOTAL": "9563776.0",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 09:38:00",
+            "PRICE": "11.18",
+            "V_TOTAL": "775100.0",
+            "M_TOTAL": "8700221.0",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 09:37:00",
+            "PRICE": "11.2",
+            "V_TOTAL": "645100.0",
+            "M_TOTAL": "7244959.0",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 09:36:00",
+            "PRICE": "11.22",
+            "V_TOTAL": "528900.0",
+            "M_TOTAL": "5942392.0",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 09:35:00",
+            "PRICE": "11.22",
+            "V_TOTAL": "409100.0",
+            "M_TOTAL": "4598614.0",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 09:34:00",
+            "PRICE": "11.25",
+            "V_TOTAL": "293600.0",
+            "M_TOTAL": "3301780.0",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 09:33:00",
+            "PRICE": "11.26",
+            "V_TOTAL": "160900.0",
+            "M_TOTAL": "1811599.0",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 09:32:00",
+            "PRICE": "11.25",
+            "V_TOTAL": "117100.0",
+            "M_TOTAL": "1318401.0",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 09:31:00",
+            "PRICE": "11.28",
+            "V_TOTAL": "65600.0",
+            "M_TOTAL": "738959.0",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        },
+        {
+            "TRADE_TIME": "2017-02-27 09:30:00",
+            "PRICE": "11.26",
+            "V_TOTAL": "5800.0",
+            "M_TOTAL": "65308.0",
+            "TTL_B_QTY": "0.0",
+            "W_AVG_B_PX": "0.0",
+            "TTL_O_QTY": "0.0",
+            "W_AVG_O_PX": "0.0"
+        }
+    ]
+}

@@ -150,14 +150,17 @@ static const CGFloat BGChartSpace = 20;//预留20的高度，使最大值不占�
     CAShapeLayer *candlesLayer = [CAShapeLayer layer];
     CAShapeLayer *volumesLayer = [CAShapeLayer layer];
     
-    [self.klineModels enumerateObjectsUsingBlock:^(id  _Nonnull obj, NSUInteger idx, BOOL * _Nonnull stop) {
+    [self.klineModels enumerateObjectsUsingBlock:^(BGStockKLineModel *  _Nonnull model, NSUInteger idx, BOOL * _Nonnull stop) {
        
+        CGPoint position = CGPointMake(_startX + BGStockCandleWidth*_xScale/2+(BGStockCandleWidth+BGStockCandleGap)*_xScale*idx, _kChartHeight - (model.HIGH - _minPrice)*_kChartPerHeight);
         
+        CAShapeLayer *candle = [self sigleCandleLayerWithKLineModel:model perHeight:_kChartPerHeight position:position scale:_xScale index:idx];
         
-        
-        
+        [candlesLayer addSublayer:candle];
         
     }];
+    
+    [_contentLayer addSublayer:candlesLayer];
 }
 
 
@@ -167,11 +170,22 @@ static const CGFloat BGChartSpace = 20;//预留20的高度，使最大值不占�
                                         position:(CGPoint)position
                                            scale:(CGFloat)scale
                                            index:(NSInteger)index {
+    //复用
+    CAShapeLayer *candleLayer;
+    if (index < self.candleReuseArray.count) {
+        
+        candleLayer = [self.candleReuseArray objectAtIndex:index];
+        [candleLayer removeFromSuperlayer];
+    }
     
-    
-    CAShapeLayer *candle = [CAShapeLayer layer];
-    candle.position = CGPointMake(0, 0);
-    
+    if (!candleLayer) {
+        
+        candleLayer = [CAShapeLayer layer];
+        candleLayer.position = CGPointMake(0, 0);
+        [self.candleReuseArray addObject:candleLayer];
+    }
+
+
     CGFloat min = MIN(model.OPEN, model.CLOSE);
     CGFloat max = MAX(model.OPEN, model.CLOSE);
     
@@ -189,20 +203,20 @@ static const CGFloat BGChartSpace = 20;//预留20的高度，使最大值不占�
     [CATransaction begin];
     [CATransaction setDisableActions:YES];
     UIColor *color = BGRedColor;
-    candle.fillColor = [UIColor clearColor].CGColor;
+    candleLayer.fillColor = [UIColor clearColor].CGColor;
     
     if (model.OPEN < model.CLOSE) {
         
         color = BGGreenColor;
-        candle.fillColor = color.CGColor;
+        candleLayer.fillColor = color.CGColor;
     }
     
-    candle.strokeColor = color.CGColor;
-    candle.path =cgpath;
+    candleLayer.strokeColor = color.CGColor;
+    candleLayer.path =cgpath;
     [CATransaction commit];
     
     CGPathRelease(cgpath);
-    return candle;
+    return candleLayer;
 }
 
 
